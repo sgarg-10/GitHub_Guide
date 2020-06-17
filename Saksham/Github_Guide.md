@@ -79,16 +79,16 @@ For cloning the repository, we need to use command line and provide the followin
 *Master branch is the default master branch of a project.<br>*
 *We can have as many branches as we want and can also delete master branch by making any other branch as default one.*
 
-#### Making a new branch:
+### Making a new branch:
 **git branch branch_name**
 
-#### To enter into a branch use command :
+### To enter into a branch use command :
 **git checkout branchname**
 
-#### To see list of all branches in your project use command :
+### To see list of all branches in your project use command :
 **git branch -ls**
 
-#### To delete a branch, use command :
+### To delete a branch, use command :
 **git branch -d branch_name**
 
 ### What are Pull requests??
